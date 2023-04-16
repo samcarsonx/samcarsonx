@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samcarsonx&count_private=true&theme=buefy">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samcarsonx&theme=buefy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samcarsonx&layout=compact&theme=buefy">
 </p>
 
 <!--

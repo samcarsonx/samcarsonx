@@ -1,9 +1,9 @@
 <h1 align="center">Hi! 👋 I'm Sam</h1>
 <h3 align="center">A passionate musician, programmer and content creator.</h3>
 
-- 🔭 I’m currently working on [goxlr-py](https://github.com/samcarsonx/goxlr-py)
+- 🔭 I’m currently working on [nicotine](https://github.com/samcarsonx/nicotine) (private repo, sorry)
 
-- 🌱 I’m currently learning **Next.js / React / Node**
+- 🌱 I’m currently learning **Fabric API**
 
 - 📫 Shoot me an email at **sam@samcarson.co.uk**
 

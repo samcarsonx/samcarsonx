@@ -1,9 +1,9 @@
 <h1 align="center">Hi! 👋 I'm Sam</h1>
 <h3 align="center">A passionate musician, programmer and content creator.</h3>
 
-- 🔭 I’m currently working on [nicotine](https://github.com/samcarsonx/nicotine) (private repo, sorry)
+- 🔭 I’m currently working on **a mod for Pokemon Red to control wild encounters externally, live**
 
-- 🌱 I’m currently learning **Fabric API**
+- 🌱 I’m currently learning **how to do that ^**
 
 - 📫 Shoot me an email at **sam@samcarson.co.uk**
 

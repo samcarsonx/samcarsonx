@@ -1,9 +1,9 @@
 <h1 align="center">Hi! 👋 I'm Sam</h1>
 <h3 align="center">A passionate musician, programmer and content creator.</h3>
 
-- 🔭 I’m currently working on **a mod for Pokemon Red to control wild encounters externally, live**
+- 🔭 I’m currently working on **an RPG**
 
-- 🌱 I’m currently learning **how to do that ^**
+- 🌱 I’m currently learning **RPG Maker MV**
 
 - 📫 Shoot me an email at **sam@samcarson.co.uk**
 
